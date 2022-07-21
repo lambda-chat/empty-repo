@@ -6,6 +6,7 @@ authors = ["lambda-chat <chat.algebrique@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 python-dotenv = "^0.20.0"
